@@ -3,10 +3,8 @@
 ## Action
 
 ### URL
-LinkBehaviour_5B490E7D_68A7_7FF3_41C8_716CB7723E91.source = https://maps.app.goo.gl/idFHbD2z99EZgVGFA
-LinkBehaviour_7FD6B76B_6799_4D17_41D0_06DFC9221543.source = https://maps.app.goo.gl/idFHbD2z99EZgVGFA
-WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 PopupWebFrameBehaviour_5B4C2E88_68A7_7F11_41C6_AFE216E41B0A.url = //www.youtube.com/embed/Y2liutBRYnQ
 PopupWebFrameBehaviour_4ADF1B4C_6998_C511_41AB_7DD6EFF41E4D.url = //www.youtube.com/embed/Y2liutBRYnQ
 PopupWebFrameBehaviour_5B4A3E84_68A7_7F11_41D1_F1E41CE0EFF9.url = //www.youtube.com/embed/hrXP2JLCqwU
@@ -16,6 +14,8 @@ PopupWebFrameBehaviour_4BA1A362_69AB_C516_41CF_0761D85619C5.url = //www.youtube.
 
 ### Title
 panorama_70961BA9_67E9_4513_41C2_4EF7F21CD140.label = Aére Santa Pizza (1)
+album_5BAB5728_68A8_CD11_414E_CFE557740840_0.label = CAPELA DE SÃO PEDRO MONTE ALEGRE
+album_5BAB5728_68A8_CD11_414E_CFE557740840.label = Álbum de Fotos CAPELA DE SÃO PEDRO MONTE ALEGRE
 
 ## Skin
 
