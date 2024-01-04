@@ -1,5 +1,4 @@
 {
- "theme_color": "#FFFFFF",
  "display": "fullscreen",
  "name": "Guia Virtual Monte Alegre 360º",
  "icons": [
@@ -39,6 +38,7 @@
    "src": "misc/icon64.png"
   }
  ],
+ "start_url": "index.htm",
  "background_color": "#FFFFFF",
- "start_url": "index.htm"
+ "theme_color": "#FFFFFF"
 }
